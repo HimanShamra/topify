@@ -22,7 +22,7 @@ Papa.parse('https://storage.googleapis.com/topify/data', {
 });
 
 var map = new mapboxgl.Map({
-    container: 'map', // container id
+    container: 'map', 
     style: 'mapbox://styles/keredniy/cjhs7mdsx6q8n2snwn7hrogq6', 
     zoom: 1.4,
     minZoom: 1.2,
