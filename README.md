@@ -1,7 +1,7 @@
 # topify
 
 
-#### Current Bug: If map does not display correctly try resizing your window. 
+#### Did not want to pay for additional hosting fees so the web-app data is outdated. 
 
 Interactive web app that displays the top spotify song in each country on a map 
 
